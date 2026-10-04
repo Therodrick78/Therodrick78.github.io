@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = "2026-10-04T13:32:23+02:00"
 title = "Demo"
 description = ""
@@ -11,3 +11,4 @@ externalLink = ""
 series = []
 +++
 # Demo
+This is a demo 
